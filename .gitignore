@@ -14,6 +14,10 @@ VITRAC_Dashboard_Khung_v1.html
 03_Scripts/
 04_Thiet_ke/
 
+# Báo cáo/DOCX nội bộ
+02_Reports/
+*.docx
+
 # Hệ thống
 .DS_Store
 Thumbs.db
