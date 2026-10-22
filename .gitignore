@@ -1,0 +1,25 @@
+# Dữ liệu nội bộ VITRAC — KHÔNG đưa lên GitHub
+01_Data/
+*.xlsx
+*.xls
+_anonymize_map.json
+
+# Bản đầy đủ (chứa tên khách hàng, NCC, NVBH) — KHÔNG public
+VITRAC_BaoCao_8M2026_v1.html
+VITRAC_Dashboard_8M2026.html
+VITRAC_Dashboard_8M2026_Draft.html
+VITRAC_Dashboard_Khung_v1.html
+
+# Script nội bộ
+03_Scripts/
+04_Thiet_ke/
+
+# Hệ thống
+.DS_Store
+Thumbs.db
+~$*
+_QA_*.html
+_QAs_*.html
+_shot/
+__pycache__/
+*.pyc
